@@ -1,0 +1,10 @@
+1,Thriller,1982
+2,Back in Black,1980
+3,The Dark Side of the Moon,1973
+4,The Bodyguard,1992
+5,Bad,1987
+6,Born in the U.S.A.,1984
+7,Hotel California,1976
+8,Rumours,1977
+9,Led Zeppelin IV,1971
+10,Abbey Road,1969
